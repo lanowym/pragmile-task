@@ -1,0 +1,34 @@
+{
+    "authors": [
+        {
+            "name": "Stephen King",
+            "bio": "<p>Amerykański powieściopisarz, głównie literatury grozy. W przeszłości publikował pod pseudonimem Richard Bachman, raz jako John Swithen.</p><p>Mistrz horroru. Eksperymentator internetowy. Rzemieślnik i artysta. Jeden z najbogatszych pisarzy świata (zarabia rocznie średnio 50 mln dolarów). Każda jego książka trafia natychmiast po premierze na szczyty list bestsellerów, a zanim powstanie, wytwórnie filmowe biją się o prawa do jej ekranizacji. Jest przy tym kochany przez rodaków jak mało który literat: jego kariera to odzwierciedlenie amerykańskiego mitu sukcesu - od pucybuta do prezydenta. A w tym przypadku - od pracownika miejskiej pralni do króla literatury popularnej.</p>",
+            "dob":  -703079407000,
+            "books": ["Ostatnia misja Gwendy", "Desperacja", "Łowca snów", "Mroczna połowa", "Billy Summers", "Zielona Mila"]
+        },
+        {
+            "name": "Agatha Christie",
+            "bio": "<p>Córka Clary i Fredericka Miller – angielska autorka powieści kryminalnych.</p><p>Córka Clary i Fredericka Miller – angielska autorka powieści kryminalnych.</p>",
+            "dob": -2502273007000,
+            "books": ["Zagadka Błękitnego Ekspresu", "Noc w bibliotece", "Zatrute pióro", "Tajemnica gwiazdkowego puddingu"]
+        },
+        {
+            "name": "Terry Pratchett",
+            "bio": "<p>Brytyjski pisarz fantasy i science fiction, najbardziej znany jako autor cyklu Świat Dysku. Inne jego dzieła to m.in. Trylogia Johnny’ego Maxwella i Trylogia Nomów. Współpracował także przy adaptacjach swojej twórczości na potrzeby sztuk teatralnych i gier komputerowych.</p><p>Jego pierwsza powieść Dywan została opublikowana w 1971. Pierwsza książka z serii Świat Dysku – Kolor magii – ukazała się w 1983 i od tego momentu autor kończył średnio dwie książki rocznie.</p>",
+            "dob": -684115200000,
+            "books": ["Smoki na zamku Ukruszon", "Dobry omen", "Kolor magii", "Sztuczna broda Świętego Mikołaja"]
+        },
+        {
+            "name": "Remigiusz Mróz",
+            "bio": "<p>Polski pisarz, autor powieści kryminalnych oraz cyklu publicystycznego „Kurs pisania”.</p><p>Ukończył z wyróżnieniem Akademię Leona Koźmińskiego w Warszawie, gdzie uzyskał stopień naukowy doktora nauk prawnych.</p>",
+            "dob": 537667200000,
+            "books": ["Projekt Riese", "Immunitet", "Wybaczam ci"]
+        },
+        {
+            "name": "Cassandra Clare",
+            "bio": "<p>Pisarka urodzona w amerykańskiej rodzinie w Teheranie. Przez większość dzieciństwa podróżowała po świecie, odbyła nawet jedną wędrówkę przez Himalaje. Mieszkała we Francji, Anglii i Szwajcarii. Licealne lata spędziła w Los Angeles, tam napisała m.in. opowieść Piękna Cassandra, opartą na opowiadaniu Jane Austen. Po ukończeniu college'u mieszkała w Los Angeles i Nowym Jorku, gdzie pracowała w redakcjach czasopism rozrywkowych, a nawet w tabloidach. Równolegle zaczęła pracę nad swoją powieścią Miasto Kości, inspirowaną miejskim krajobrazem Manhattanu. Mieszkając w Los Angeles, zaczęła pisać utwory fan fiction pod pseudonimem Cassandra Clare. W fandomie związanym z Harrym Potterem jest znana dzięki opowiadaniom Draco Trilogy, a w fandomie Władcy Pierścieni dzięki opowiadaniu The Very Secret Diaries. Obecnie mieszka z mężem w Amherst w stanie Massachusetts.</p>",
+            "dob": 112924800000,
+            "books": ["Łańcuch z żelaza", "Łańcuch ze złota", "Mechaniczny anioł"]
+        }
+    ]
+}
